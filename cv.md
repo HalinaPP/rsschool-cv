@@ -11,11 +11,11 @@ I'm hard-working, responsible and attentive. I try to complete all tasks on time
 
 
 ## Skills
-** Languages: **PHP, JavaScript, SQL;  
-**Databases: **MySQL, MariaDB, MongoDB;  
+**Languages:** PHP, JavaScript, SQL;  
+**Databases:** MySQL, MariaDB, MongoDB;  
 **Environment:** Node.js;  
-** Frontend:** Smarty, HTML5, CSS3, AJAX;  
-** Graphics:** GIMP, PhotoShop;  
+**Frontend:** Smarty, HTML5, CSS3, AJAX;  
+**Graphics:** GIMP, PhotoShop;  
 **Version control**: Git;  
 **IDE:** Eclipse PDT, VS Code;
 
