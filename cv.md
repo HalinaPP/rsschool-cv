@@ -17,7 +17,7 @@ I'm hard-working, responsible and attentive. I try to complete all tasks on time
 **Frontend:** Smarty, HTML5, CSS3, SASS, AJAX, React;  
 **Graphics:** GIMP, PhotoShop;  
 **Version control**: Git;  
-**IDE:** Eclipse PDT, VS Code;
+**IDE:** Eclipse PDT, VS Code;  
 **Other:** Swagger API, Winston, Passport, Typescript, Webpack, AntDesign;
 
 ## Code examples
