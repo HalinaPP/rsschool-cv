@@ -12,13 +12,13 @@ I'm hard-working, responsible and attentive. I try to complete all tasks on time
 
 ## Skills
 **Languages:** PHP, JavaScript, SQL;  
-**Databases:** MySQL, MariaDB, MongoDB;  
-**Environment:** Node.js;  
-**Frontend:** Smarty, HTML5, CSS3, AJAX;  
+**Databases:** MySQL, MariaDB, MongoDB, PostgreSql;  
+**Environment:** Node.js, Express;  
+**Frontend:** Smarty, HTML5, CSS3, SASS, AJAX, React;  
 **Graphics:** GIMP, PhotoShop;  
 **Version control**: Git;  
 **IDE:** Eclipse PDT, VS Code;
-
+**Other:** Swagger API, Winston, Passport, Typescript, Webpack, AntDesign;
 
 ## Code examples
 https://github.com/HalinaPP/songbird  
@@ -48,6 +48,10 @@ The Rolling Scopes School
 - **Html, Css, Javascript courses**  
 https://ru.code-basics.com/  
 09/2020
+
+- **JS/FE**  
+The Rolling Scopes School  
+02/2021
 
 ## English level
 **Pre-Intermediate**  
