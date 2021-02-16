@@ -1,1 +1,1 @@
-[https:/halinapp.github.io/rsschool-cv/cv](https:/halinapp.github.io/rsschool-cv/cv)
+[https://github.com/HalinaPP/rsschool-cv/blob/rsschool-cv-html/cv.md](hhttps://github.com/HalinaPP/rsschool-cv/blob/rsschool-cv-html/cv.md)
