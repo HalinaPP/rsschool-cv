@@ -29,7 +29,7 @@ https://github.com/HalinaPP/rsschool_tasks/pull/2
 https://github.com/HalinaPP/rsclone/pull/1
 ## Presentation:  
   https://canvas-reveal-presentation.netlify.app/  
-
+  https://youtu.be/tGw6hjwWEUE
 ## Experience
 I have a good experience in PHP backend development and some practice in Html, Css, Javascript.
 
