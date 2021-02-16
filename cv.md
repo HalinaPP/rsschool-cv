@@ -22,9 +22,9 @@ I'm hard-working, responsible and attentive. I try to complete all tasks on time
 
 ## Code examples
 https://github.com/HalinaPP/songbird  
-https://github.com/HalinaPP/nodejs-course-0320
-https://github.com/HalinaPP/rsschool_tasks/pull/1
-https://github.com/HalinaPP/rsschool_tasks/pull/2
+https://github.com/HalinaPP/nodejs-course-0320  
+https://github.com/HalinaPP/rsschool_tasks/pull/1  
+https://github.com/HalinaPP/rsschool_tasks/pull/2  
 
 ## Experience
 I have a good experience in PHP backend development and some practice in Html, Css, Javascript.
